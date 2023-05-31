@@ -17,9 +17,13 @@ __Suggested site__: [zigwheels - ](https://www.zigwheels.com/)
 3. Try to 'Login' with google, give invalid account details & capture the error message
 
 ### __Key Automation Scope__
+
 •	Handling windows & frames
+
 •	Filling simple form, Capture warning message
+
 •	Extract menu items from frames & store in collections
+
 •	Navigating back to home page
 
 ### __Prerequisites__
