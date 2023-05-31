@@ -1,0 +1,25 @@
+2021-05-12 17:50:27,898  INFO [main] upcomingBikesTest:26 - Browser has been invoked Successfully
+2021-05-12 17:50:45,294  INFO [main] upcomingBikesTest:37 - Popup is closed
+2021-05-12 17:50:50,905  INFO [main] upcomingBikesTest:40 - Upcoming Bikes are Clicked
+2021-05-12 17:50:55,325  INFO [main] upcomingBikesTest:50 - Honda is selected from the browser
+2021-05-12 17:50:56,631  INFO [main] upcomingBikesTest:60 - View More Bikes button is clicked
+2021-05-12 17:50:58,867  INFO [main] upcomingBikesTest:69 - Upcoming Honda Bikes are displayed
+2021-05-12 17:50:59,509  INFO [main] upcomingBikesTest:77 - Report is generated
+2021-05-12 17:51:02,027  INFO [main] upcomingBikesTest:79 - Browser is closed
+2021-05-12 17:51:12,325  INFO [main] UsedCarsTest:32 - Browser has been invoked Successfully
+2021-05-12 17:51:14,208  INFO [main] UsedCarsTest:34 - Website is opened
+2021-05-12 17:51:26,530  INFO [main] UsedCarsTest:37 - Popup is closed
+2021-05-12 17:51:34,224  INFO [main] UsedCarsTest:39 - Chennai is Clicked
+2021-05-12 17:51:34,550  INFO [main] UsedCarsTest:50 - Displayed -The Popular Models Used Cars in Chennai
+2021-05-12 17:51:34,570  INFO [main] UsedCarsTest:60 - Verified -The Popular Models Used Cars in Chennai
+2021-05-12 17:51:34,660  INFO [main] UsedCarsTest:70 - Report is generated
+2021-05-12 17:51:36,433  INFO [main] UsedCarsTest:72 - Browser is Closed
+2021-05-12 17:51:45,161  INFO [main] LoginTest:31 - Browser has been invoked Successfully
+2021-05-12 17:51:51,513  INFO [main] LoginTest:33 - Website is opened
+2021-05-12 17:52:01,857  INFO [main] LoginTest:35 - Popup is closed
+2021-05-12 17:52:06,735  INFO [main] LoginTest:37 - Login window is clicked
+2021-05-12 17:52:12,543  INFO [main] LoginTest:39 - Valid E-Mail ID is given
+2021-05-12 17:52:17,757  INFO [main] LoginTest:50 - Login window opens again
+2021-05-12 17:52:23,296  INFO [main] LoginTest:52 - InValid E-Mail ID is given
+2021-05-12 17:52:26,358  INFO [main] LoginTest:61 - Report is generated
+2021-05-12 17:52:27,540  INFO [main] LoginTest:63 - Browser is Closed
