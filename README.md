@@ -9,7 +9,7 @@ The problem statement involves extracting upcoming bikes' details from a legitim
 2. Filter the bikes based on the manufacturer, which should be Honda.
 3. Filter the bikes based on the price, which should be less than 4 Lakh.
 
-__Suggested site__: [zigwheels - ](https://www.zigwheels.com/)
+__Suggested site__: [zigwheels](https://www.zigwheels.com/)
 
 ### __Detailed Description__
 1. Display "Upcoming" bikes details like bike name, price and expected launch date in India, for manufacturer 'Honda' & Bike price should be less than 4Lac.
